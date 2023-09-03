@@ -1,5 +1,4 @@
-# Live link for the Website:
-### Website Live Link: [BufferCode](https://buffer-code.netlify.app/)
+## Website Live Link: [BufferCode](https://buffer-code.netlify.app/)
 
 # Getting Started with Create React App
 
