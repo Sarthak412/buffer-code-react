@@ -52,16 +52,6 @@ const Footer = () => {
                     <li className='py-2 text-sm hover:text-emerald-400'> Backend Development </li>
                 </ul>    
             </div>        
-
-            <div>
-                <h6 className='font-medium text-emerald-300'> Contact </h6>
-                <ul>
-                    <li className='py-2 text-sm'> India, Mumbai </li>
-                    <li className='py-2 text-sm'> buffercode@example.com </li>
-                    <li className='py-2 text-sm'> +91 - 987654321 </li>
-                    <li className='py-2 text-sm'> +91 - 912345678 </li>
-                </ul>    
-            </div>        
         </div>       
     </div>
   )
